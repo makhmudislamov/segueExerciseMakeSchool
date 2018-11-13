@@ -168,7 +168,7 @@
                                     <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="noun_Penguin_394825" translatesAutoresizingMaskIntoConstraints="NO" id="IBo-zt-H4v">
                                         <rect key="frame" x="0.0" y="70" width="567" height="557"/>
                                     </imageView>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="I received this message:" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cgX-n4-Nko">
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="I received this message: Penguins are cool" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cgX-n4-Nko">
                                         <rect key="frame" x="0.0" y="647" width="567" height="50"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="50" id="VIg-Kb-Uga"/>
